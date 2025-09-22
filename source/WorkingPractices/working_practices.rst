@@ -138,7 +138,6 @@ helpful for documenting and monitoring progress of your work.
     gh_dev_init
     multi_repository
     approvals
-    reviews
     pull_requests
     final_steps
     git_extras
